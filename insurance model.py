@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 18 09:03:35 2019
-
-@author: Richard Ademefun
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 18 08:55:00 2019
-
-@author: Richard Ademefun
-"""
-
-# Multiple Linear Regression
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
